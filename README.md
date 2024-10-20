@@ -1,9 +1,9 @@
-Money Conversion Program-
+Money Conversion Program
 1. Overview: 
       This is a simple money conversion program that allows users between six different currencies to convert a given amout of money. 
       After performing conversions, the program will save a log of each conversion in a JSON file for record-keeping and further reference.
   
-  Note: As the the programm is based on live exchange rates, the user must have access to internet for the programm to function correctly. 
+        Note: As the the programm is based on live exchange rates, the user must have access to internet for the programm to function correctly. 
 
 2. Features:
 User can input the amount to be converted and select the desired conversion option.
