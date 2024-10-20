@@ -1,16 +1,16 @@
-Money Conversion Program 
-  Overview
+Money Conversion Program-
+1. Overview: 
       This is a simple money conversion program that allows users between six different currencies to convert a given amout of money. 
       After performing conversions, the program will save a log of each conversion in a JSON file for record-keeping and further reference.
   
   Note: As the the programm is based on live exchange rates, the user must have access to internet for the programm to function correctly. 
 
-Features
+2. Features:
 User can input the amount to be converted and select the desired conversion option.
 After performing multiple conversions, the program generates a JSON file that contains the conversion records.
 Each record in the JSON file includes the source currency, the target currency, and the converted amount.
 
-Supported Currencies
+3. Supported Currencies:
 The following currencies are supported by the program:
 
    1) Dollar -> Argentine peso
@@ -20,7 +20,7 @@ The following currencies are supported by the program:
    5) Dollar -> Colombian peso
    6) Colombian peso -> Dollar
 
-How It Works
+4. How It Works:
 Choose Currencies: The user selects the source currency and the target currency from the supported currencies.
 Enter Amount: The user inputs the amount of money they want to convert.
 Conversion: The program performs the conversion based on live exchange rates.
